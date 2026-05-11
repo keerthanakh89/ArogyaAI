@@ -147,6 +147,8 @@ ArogyaAI/
 - Firebase Auth with OTP for patient identity
 
 ---
+## 🎥 Demo Video
+👉 https://youtu.be/Jz42qciW2IE
 
 ## 📄 License
 
