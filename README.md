@@ -3,7 +3,6 @@
 
 > **Team Sensors** | WitchHunt Hackathon 2026 | Theme: Health Wellbeing  
 > AI-Powered Telemedicine for Rural India
-
 ---
 
 ## 👥 Team Members
